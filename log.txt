@@ -1,0 +1,11 @@
+commit d0466ffda3c3382d80082149b59b3323f0238657
+Author: Yazzine02 <yassine.qat02@gmail.com>
+Date:   Sun Mar 10 14:17:56 2024 +0000
+
+    added exceptions in .gitignore
+
+commit 39b05b611eaf954598c91b05af3aa4bf3aaf8042
+Author: Yazzine02 <yassine.qat02@gmail.com>
+Date:   Sun Mar 10 14:15:15 2024 +0000
+
+    added gitignore and jpg ignore in it
