@@ -1,1 +1,1 @@
-It's sunny but cold outside
+Let's create a conflict
