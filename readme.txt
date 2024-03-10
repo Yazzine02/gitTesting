@@ -1,1 +1,1 @@
-It's sunny but cold outside
+Conflict incoming
