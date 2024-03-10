@@ -1,28 +1,12 @@
-# This is a large heading
+#Hello
+##Hope you are doing fine
+I am a computer science engineering student and I am learning how to manipulate git
+### Food
 
-## This is a smaller heading
+Here is a top 3 of my favorite dishes:
+1. Bastilla
+2. Pasta w/ cream sauce and thuna
+3. Pizza w/ tomato sauce and chicken or beef
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
-
-- This is
-- an unordered
-- list
-
-1. This is
-2. an ordered
-3. list
-
-Here is `some code` in the middle of a sentence.
-
-```
-This is
-a block
-of code
-```
-
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+###Contact
+Feel free to contact me [on LinkedIn](https://www.linkedin.com/in/yassine-qat-9415272ab/)
